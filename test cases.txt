@@ -1,0 +1,241 @@
+Test cases
+
+
+case 1:
+
+    inputs-
+        Bill Amount: 500
+        Tip Percentage: 10
+        Number of people: 2
+  
+    outputs-
+        Tip Amount (Per Person): 25.00
+        Total Amount (Per Person): 275.00
+
+
+case 2:
+
+    inputs-
+        Bill Amount: 0
+        Tip Percentage: 15
+        Number of people: 3
+  
+    outputs-  "please enter all values"
+        Tip Amount (Per Person):
+        Total Amount (Per Person):
+
+
+case 3:
+
+    inputs-
+        Bill Amount: 100
+        Tip Percentage: 0
+        Number of people: 2
+  
+    outputs- "please enter all values"
+        Tip Amount (Per Person):
+        Total Amount (Per Person):
+
+
+case 4:
+
+    inputs-
+        Bill Amount: 300
+        Tip Percentage: 30
+        Number of people: 0
+  
+    outputs- "please enter all values"
+        Tip Amount (Per Person):
+        Total Amount (Per Person):
+
+
+case 5:
+
+    inputs-
+        Bill Amount: -1200          
+        Tip Percentage: 25
+        Number of people: 4
+  
+    outputs- "values can't be negative"
+        Tip Amount (Per Person):
+        Total Amount (Per Person):
+
+
+case 6:
+
+    inputs-
+        Bill Amount: 1200
+        Tip Percentage: -10
+        Number of people: 2
+  
+    outputs- "values can't be negative"
+        Tip Amount (Per Person):
+        Total Amount (Per Person):
+
+
+case 7:
+
+    inputs- 
+        Bill Amount: 800    
+        Tip Percentage: 5
+        Number of people: 2
+  
+    outputs- "values can't be negative"
+        Tip Amount (Per Person):
+        Total Amount (Per Person):
+
+
+case 8:
+
+    inputs-
+        Bill Amount: 500
+        Tip Percentage: 15
+        Number of people: 1
+   
+    outputs-
+        Tip Amount (Per Person): 75.00
+        Total Amount (Per Person): 575.00
+
+
+case 9:
+
+    inputs-
+        Bill Amount: 50000  
+        Tip Percentage: 40
+        Number of people: 6
+  
+    outputs-
+        Tip Amount (Per Person): 3333.33
+        Total Amount (Per Person): 11666.67
+
+
+case 10:
+
+    inputs-
+        Bill Amount: 100
+        Tip Percentage: 20
+        Number of people: 10
+  
+    outputs-
+        Tip Amount (Per Person): 2.00
+        Total Amount (Per Person): 12.00
+
+
+case 11:
+
+    inputs-
+        Bill Amount: 123456789
+        Tip Percentage: 23
+        Number of people: 27
+  
+    outputs-
+        Tip Amount (Per Person): 1051668.94
+        Total Amount (Per Person): 5624142.61
+
+
+case 12:
+
+    inputs-
+        Bill Amount: 6073.78
+        Tip Percentage: 5
+        Number of people: 2
+   
+    outputs-
+        Tip Amount (Per Person): 151.84
+        Total Amount (Per Person): 3188.73
+
+
+case 13:
+
+    inputs-
+        Bill Amount: 50 
+        Tip Percentage: 30
+        Number of people: 8 
+  
+    outputs-
+        Tip Amount (Per Person): 1.88
+        Total Amount (Per Person): 8.13
+
+
+case 14:
+
+    inputs-
+        Bill Amount: 99999999
+        Tip Percentage: 90
+        Number of people: 2
+  
+    outputs-
+        Tip Amount (Per Person): 44999999.55
+        Total Amount (Per Person): 94999999.05
+
+
+case 15:
+
+    inputs-
+        Bill Amount: 189
+        Tip Percentage: 13 
+        Number of people: 5 
+  
+    outputs-
+        Tip Amount (Per Person): 4.91
+        Total Amount (Per Person): 42.71
+
+
+case 16:
+
+    inputs-
+        Bill Amount: 56789
+        Tip Percentage: 12
+        Number of people: 34
+  
+    outputs-
+        Tip Amount (Per Person): 200.43
+        Total Amount (Per Person): 1870.70
+
+
+case 17:
+
+    inputs-
+        Bill Amount: 2505   
+        Tip Percentage: 25
+        Number of people: 6
+  
+    outputs-
+        Tip Amount (Per Person): 104.38
+        Total Amount (Per Person): 521.88
+
+
+case 18:
+
+    inputs-
+        Bill Amount: 1111
+        Tip Percentage: 11
+        Number of people: 11
+  
+    outputs-
+        Tip Amount (Per Person): 11.11
+        Total Amount (Per Person): 112.11
+
+
+case 19:
+
+    inputs-
+        Bill Amount: 2810
+        Tip Percentage: 9
+        Number of people: 7
+  
+    outputs-
+        Tip Amount (Per Person): 36.13
+        Total Amount (Per Person): 437.56
+
+
+case 20:
+
+    inputs-
+        Bill Amount: 10000000000000000000000
+        Tip Percentage: 56
+        Number of people: 45
+  
+    outputs-
+        Tip Amount (Per Person): 124444444444444475392.00
+        Total Amount (Per Person): 346666666666666688512.00
